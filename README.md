@@ -8,7 +8,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Projects
 <img align="left" width="250" height="150" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/healthcare.png">**[Health Care App](https://github.com/deepakcr7ms7/Health_Care_App)**
 
-- Created seven disease classification models with TensorFlow, Random Forest and XGBoost to analyse patients’
-medical records, achieving over 90% accuracy.
-- Integrated trained models to create an application with Flask framework
+Created seven disease classification models with TensorFlow, Random Forest and XGBoost to analyse patients’
+medical records, achieving over 90% accuracy. Integrated trained models to create an application with Flask framework
 
