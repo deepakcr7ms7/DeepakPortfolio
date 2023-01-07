@@ -6,11 +6,19 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/in/deepakphadtare](www.linkedin.com/in/deepakphadtare)
 
 ## Projects
+
 #
+
 <img align="left" width="250" height="150" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/images%20(2).jpg">**[Health Care App](https://github.com/deepakcr7ms7/Health_Care_App)**
 
 Created seven disease classification models with TensorFlow, Random Forest and XGBoost to analyse patients’
-medical records, achieving over 90% accuracy. Integrated trained models to create an application with Flask framework
+medical records, achieving over 90% accuracy. Integrated trained models to create an application with Flask framework.
+#
+#
+
+<img align="left" width="250" height="150" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/download.png">**[Spotify Song Recommender](https://github.com/deepakcr7ms7/Spotify_Song_Reccomender)**
+
+In this project, I first learned the basics of recommendation systems, involving the two general approaches of content-based filtering and collaborative filtering methods. Then, built a content-based filtering recommendation system using Spotify playlists data from scratch. This involves the procedure of feature preprocessing, feature generation, recommendation modeling and application developement in Flask.
 
 #
 
