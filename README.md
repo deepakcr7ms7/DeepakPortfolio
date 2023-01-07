@@ -18,7 +18,7 @@ medical records, achieving over 90% accuracy. Integrated trained models to creat
 
 <img align="left" width="250" height="150" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/download.png">**[Spotify Song Recommender](https://github.com/deepakcr7ms7/Spotify_Song_Reccomender)**
 
-In this project, I first learned the basics of recommendation systems, involving the two general approaches of content-based filtering and collaborative filtering methods. Then, built a content-based filtering recommendation system using Spotify playlists data from scratch. This involves the procedure of feature preprocessing, feature generation, recommendation modeling and application developement in Flask.
+In this project, I built a content-based filtering recommendation system using Spotify playlists data from scratch. This involves the procedure of feature preprocessing, feature generation, recommendation modeling and application developement in Flask.
 
 #
 
@@ -30,4 +30,4 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 ## Certificates
 
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
+- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pd)
