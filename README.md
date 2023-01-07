@@ -26,8 +26,11 @@ In this project, I built a content-based filtering recommendation system using S
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
-<hr>
+#
 
 ## Certificates
 
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pd)
+- [Supervised Machine Learning: Regression and Classification by DeepLearning.AI](https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Certificates/Coursera%20%20ML1.pdf)
+- [Advanced Learning Algorithms By DeepLearning.AI](https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Certificates/Coursera%20ML2.pdf)
+- [SQL for Data Science by UC Davis](https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Certificates/SQL.pdf)
+- [Python Complete Bootcamp by Udemy](https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Certificates/Python%20Certification.pdf)
