@@ -21,7 +21,7 @@ medical records, achieving over 90% accuracy. Integrated trained models to creat
 In this project, I built a content-based filtering recommendation system using Spotify playlists data from scratch. This involves the procedure of feature preprocessing, feature generation, recommendation modeling and application developement in Flask.
 
 #
-
+#
 <img align="left" width="250" height="150" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/images.jpg"> **[Instacart Market Basket Analysis](https://github.com/deepakcr7ms7/Instacart_Market_Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
