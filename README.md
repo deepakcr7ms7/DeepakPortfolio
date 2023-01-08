@@ -7,6 +7,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+
+<img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/instacart.png"> **[Instacart Market Basket Analysis](https://github.com/deepakcr7ms7/Instacart_Market_Analysis)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
 <img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/images%20(2).jpg">**[Health Care App](https://github.com/deepakcr7ms7/Health_Care_App)**
 
 Created seven disease classification models with TensorFlow, Random Forest and XGBoost to analyse patients’
@@ -24,17 +31,13 @@ Developed an innovative Book search engine using collaborative filtering, which 
 
 In this project, I built a content-based filtering recommendation system using Spotify playlists data from scratch. This involves the procedure of feature preprocessing, feature generation, recommendation modeling and application developement in Flask.
 
-#
-
-<img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/instacart.png"> **[Instacart Market Basket Analysis](https://github.com/deepakcr7ms7/Instacart_Market_Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 #
 
 <img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/ML2.jpg"> **[Machine Learning Algorithms](https://github.com/deepakcr7ms7/Machine-Learning)**
 
 Implemented algorithms like Star cubing, Bayesian Classifier, FP growth, Decision Tree Induction, Logistic Regression, KNN from scratch without using any inbuilt library (like Scikit-Learn) with average accuracy of 90%.
+
 #
 
 <img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/Images/download.jpg">**[Hardware Generation Tool](https://github.com/deepakcr7ms7/Harware_Generation_Tool)**
