@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Projects
 
 
-<img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/images/instacart.png"> **[Instacart Market Basket Analysis](https://github.com/deepakcr7ms7/Instacart_Market_Analysis)**
+<img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/images/instacart.PNG"> **[Instacart Market Basket Analysis](https://github.com/deepakcr7ms7/Instacart_Market_Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
