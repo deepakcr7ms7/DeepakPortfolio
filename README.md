@@ -14,7 +14,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/images/images%20(2).jpg">**[Health Care App](https://github.com/deepakcr7ms7/Health_Care_App)**
+<img align="left" width="230" height="130" src="https://github.com/deepakcr7ms7/Deepak_Portfolio/blob/main/images/images%20(2).JPG">**[Health Care App](https://github.com/deepakcr7ms7/Health_Care_App)**
 
 Created seven disease classification models with TensorFlow, Random Forest and XGBoost to analyse patients’
 medical records, achieving over 90% accuracy. Integrated trained models to create an application with Flask framework.
